@@ -4,3 +4,4 @@ OCP3.x で稼働中のアプリケーションを Migration Toolkit for Containe
 
 前提：OCP3.11 → OCP4.7 で両環境は既にあり。MTCのインストールから行う
 
+## 1. MTC のインストール
